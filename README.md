@@ -1,6 +1,6 @@
 # Projex
 ## Tool Designed to Automate New JS Project Setup
--------------------------------------------------
+
 Features To be Expected:
 
 - Easy setup, I mean only one dependency that rules all.
